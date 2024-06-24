@@ -1,5 +1,5 @@
 {"production": [
-{"dinoType":"Blueprint'/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable'", 
+{"dinoType":"Blueprint'/NoUntameables/Cnidaria/Cnidaria_Character_Tameable.Cnidaria_Character_BP_Tameable'", 
 "produces":[
 {
 "intervalSeconds": 90.00,
@@ -13,7 +13,7 @@
 }
 
 ]},
-{"dinoType":"Blueprint'/NoUntameables/Ammonite/Ammonite_Character_BP_Tameable.Ammonite_Character_BP_Tameable'", 
+{"dinoType":"Blueprint'/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_BP_Tameable'", 
 "produces":[
 {
 "intervalSeconds": 90.00,
@@ -27,7 +27,7 @@
 }
 
 ]},
-{"dinoType":"Blueprint'/NoUntameables/Eurypterid/Euryp_Character_BP_Tameable.Euryp_Character_TBP_ameable'", 
+{"dinoType":"Blueprint'/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_TBP_ameable'", 
 "produces":[
 {
 "intervalSeconds": 90.00,
