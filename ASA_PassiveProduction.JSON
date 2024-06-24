@@ -1,5 +1,5 @@
 {"production": [
-{"dinoType": "Blueprint'/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable'", 
+{"dinoType":"Blueprint'/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable'", 
 "produces":[
 {
 "intervalSeconds": 90.00,
